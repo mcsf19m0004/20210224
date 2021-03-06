@@ -5,7 +5,7 @@ C. Concurrency
 D. None of these
 
 
-5. _________ is not a project manager’s activity.
+5. is not a project manager’s activity.
 A. project design
 B. project management
 C. project planning
