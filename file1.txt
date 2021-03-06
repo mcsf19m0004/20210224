@@ -3,12 +3,7 @@ A. Consistency
 B. Correctness
 C. Concurrency
 D. None of these
-2. A software project that meets all the given objectives is a success of _________.
-A. Project fundamental purpose
-B. Project quality
-C. Project requirement
-D. Project management myth
-E. None of these
+
 
 5. _________ is not a project manager’s activity.
 A. project design
