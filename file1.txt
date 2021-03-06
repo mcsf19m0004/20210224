@@ -9,16 +9,7 @@ B. Project quality
 C. Project requirement
 D. Project management myth
 E. None of these
-3. ___________ is not an effective software project management focus..
-A. people
-B. product
-C. process
-D. popularity
-4. What is the abbreviation of PM-CMM…
-A. product management capability maturity model
-B. process management capability maturity model
-C. people management capability maturity model
-D. project management capability maturity model
+
 5. _________ is not a project manager’s activity.
 A. project design
 B. project management
