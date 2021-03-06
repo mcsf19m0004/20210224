@@ -1,0 +1,32 @@
+1. What are Requirements refined and analyzed to assess their clarity, completeness, and_____
+A. Consistency
+B. Correctness
+C. Concurrency
+D. None of these
+2. A software project that meets all the given objectives is a success of _________.
+A. Project fundamental purpose
+B. Project quality
+C. Project requirement
+D. Project management myth
+E. None of these
+3. ___________ is not an effective software project management focus..
+A. people
+B. product
+C. process
+D. popularity
+4. What is the abbreviation of PM-CMM…
+A. product management capability maturity model
+B. process management capability maturity model
+C. people management capability maturity model
+D. project management capability maturity model
+5. _________ is not a project manager’s activity.
+A. project design
+B. project management
+C. project planning
+D. project control
+6. The __________ is not an approach to software cost estimation?
+A. Analytical
+B. Critical
+C. Empirical
+E. Heuristic
+7. Which one of the following is not considered as a risk in project management?
